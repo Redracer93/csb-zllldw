@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://redracer93.github.io/csb-zllldw/static/css/main.f59dff40.chunk.css",
+    "main.js": "https://redracer93.github.io/csb-zllldw/static/js/main.729fcf6c.chunk.js",
+    "main.js.map": "https://redracer93.github.io/csb-zllldw/static/js/main.729fcf6c.chunk.js.map",
+    "runtime-main.js": "https://redracer93.github.io/csb-zllldw/static/js/runtime-main.89bdc0f8.js",
+    "runtime-main.js.map": "https://redracer93.github.io/csb-zllldw/static/js/runtime-main.89bdc0f8.js.map",
+    "static/js/2.5c238370.chunk.js": "https://redracer93.github.io/csb-zllldw/static/js/2.5c238370.chunk.js",
+    "static/js/2.5c238370.chunk.js.map": "https://redracer93.github.io/csb-zllldw/static/js/2.5c238370.chunk.js.map",
+    "index.html": "https://redracer93.github.io/csb-zllldw/index.html",
+    "precache-manifest.d0f77810b9f021ebd979edbbe29fc403.js": "https://redracer93.github.io/csb-zllldw/precache-manifest.d0f77810b9f021ebd979edbbe29fc403.js",
+    "service-worker.js": "https://redracer93.github.io/csb-zllldw/service-worker.js",
+    "static/css/main.f59dff40.chunk.css.map": "https://redracer93.github.io/csb-zllldw/static/css/main.f59dff40.chunk.css.map",
+    "static/js/2.5c238370.chunk.js.LICENSE.txt": "https://redracer93.github.io/csb-zllldw/static/js/2.5c238370.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "https://redracer93.github.io/csb-zllldw/static/media/logo.be622899.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.89bdc0f8.js",
+    "static/js/2.5c238370.chunk.js",
+    "static/css/main.f59dff40.chunk.css",
+    "static/js/main.729fcf6c.chunk.js"
+  ]
+}
